@@ -5,6 +5,8 @@ machines = {
     "Alien Blaster":{"category": "Shooter", "status":"Working"},
 }
 
+# yo yo
+
 while True:
     choice = input("(1) View all machines, (2) Add a machine, (3) Update status, (4) Filter by category, (5) List machines needing service, (6) Exit ")
 
